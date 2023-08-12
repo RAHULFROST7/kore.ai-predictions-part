@@ -1,0 +1,10 @@
+keywords = ['beyerdynamic', 'iPhone 13 pro','SamsungGalaxyS22Ultra','benq', 'zendure', 'headphones', 'grado', 'ricoh', 'fitbit', 'apple', 'asus', 'macbook', 'xbox', 'samsung', 'gaming laptop', 'vankyo', 'monitor', 'nebula', 'tp-link', 'laptop', 'panasonic', 'philips', 'nest', 'akg', 'boat', 'audio-technica', 'asus', 'xgimi', 'august', 'garmin', 'camera', 'jackery', 'anker', 'ipad', 'tv', 'epson', 'sennheiser', 'playstation', 'xiaomi', 'portable charger', 'xerox', 'goal', 'viewsonic', 'lexmark', 'wyze', 'fitness tracker', 'jbl', 'instant', 'printer', 'ecobee', 'google', 'tablet', 'alienware', 'fossil', 'fujifilm', 'polar', 'skullcandy', 'acer', 'home appliance', 'shure', 'projector', 'oppo', 'ultimate', 'bose', 'msi', 'olympus', 'jabra', 'razer', 'wireless earbuds', 'smart home device', 'amazon', 'tcl', 'dell', 'motorola', 'canon', 'ring', 'bluetooth speaker', 'lg', 'brother', 'mobvoi', 'harman', 'suunto', 'amazfit', 'huawei', 'boat', 'sony', 'ticwatch', 'energizer', 'leica', 'lenovo', 'gigabyte', 'nikon', 'ue', 'oneplus', 'roomba', 'aukey', 'nespresso', 'kitchenaid', 'marshall', 'dyson', 'hp', 'microsoft', 'vizio', 'earphones', 'gaming console', 'nintendo', 'airpods', 'hisense', 'ravpower', 'smartwatch', 'pentax', 'optoma', 'iphone', 'maxoak', 'smartphone']
+time_periods =  ["month", "quarter", "year","holiday season", "week","spring", "summer", "fall", "winter", "festive season", "Christmas", "Thanksgiving","New Year", "summer vacation", "rainy season", "dry season", "monsoon", "peak season", "off-peak season", "high season", "low season", "peak time"]
+
+[metrics]
+sales = [ "sales", "sold", "units", "quantity"]
+revenue = [ "revenue", "earnings", "income"]
+factors = [ "factors", "driving", "growth", "influencing"]
+"average order value" = [ "average order value", "average price", "average spending"]
+"market share" = [ "market share", "share"]
+"customer satisfaction" = [ "customer satisfaction", "satisfaction"]

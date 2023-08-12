@@ -1,0 +1,7 @@
+uvicorn[standard]
+deta
+flask
+fuzzywuzzy
+joblib
+pandas
+toml
